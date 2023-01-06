@@ -1,0 +1,18 @@
+clusters,celltypes
+0,CD8+ T
+1,CD14+ MONO
+2,NK 1
+3,CD4+ T
+4,NEU
+5,FCGR3A+ MONO
+6,B
+7,MONO_2
+8,B
+9,NK 2
+10,DC
+11,DEL
+12,Platelet
+13,BASO?
+14,Plasma
+15,EOS
+16,Macro
